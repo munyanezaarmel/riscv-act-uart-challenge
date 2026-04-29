@@ -18,6 +18,27 @@ make
 gcc -Wall -Wextra -g -o uart_demo uart.c
 ```
 
+## Screenshots
+
+### Build
+<img width="747" height="68" alt="image" src="https://github.com/user-attachments/assets/6df02ded-9f00-458a-9777-e3fd1809a9e3" />
+
+
+### Test Results (no hardware needed)
+<img width="747" height="402" alt="image" src="https://github.com/user-attachments/assets/13a2cda3-255b-45d7-8c0a-76baf8c49672" />
+
+
+### Full TX/RX Demo (virtual serial ports)
+<img width="1131" height="129" alt="image" src="https://github.com/user-attachments/assets/f1503fcd-3300-45e3-bdec-d41d3e9e3c8c" />
+<img width="1100" height="236" alt="image" src="https://github.com/user-attachments/assets/a51cb28d-8ce1-48b1-9ded-5ea366c00bb5" />
+
+
+
+### Error Handling
+<img width="859" height="155" alt="image" src="https://github.com/user-attachments/assets/bae57ead-bad4-4a65-9099-a8ea48cf295a" />
+
+
+
 ## Run
 
 ```bash
